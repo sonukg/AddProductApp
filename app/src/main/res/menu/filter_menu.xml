@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/icon_menu"
+      app:showAsAction="always"
+      android:icon="@drawable/ic_baseline_filter_list_24"
+      android:title="">
+      <menu>
+          <item android:id="@+id/all_product"
+              android:title="@string/a_to_z" />
+          <item android:id="@+id/by_price"
+              android:title="@string/by_price_low_to_high" />
+          <item android:id="@+id/by_category"
+              android:title="@string/by_category" />
+      </menu>
+  </item>
+</menu>
