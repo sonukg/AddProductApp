@@ -1,5 +1,7 @@
 # AddProductApp
-##### This is mvvm architecture project using viewmodel, livedata, coroutine, retrofit
+##### This is mvvm architecture project using viewmodel, livedata, coroutine, retrofit,room,repository
+##### This short project also sorting the products alphabetical wise,price wise and category wise
+
 <img src="https://user-images.githubusercontent.com/37504411/111924396-55a78180-8aca-11eb-83e3-5c1a409c4856.jpeg" width="100" align="left"/>
 <img src="https://user-images.githubusercontent.com/37504411/111924404-6a841500-8aca-11eb-872a-97472618759b.jpeg" width="100" align="center"/>
 <img src="https://user-images.githubusercontent.com/37504411/111924409-6fe15f80-8aca-11eb-9872-4105c30797ea.jpeg" width="100" align="left"/>
